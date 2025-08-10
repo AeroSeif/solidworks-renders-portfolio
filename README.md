@@ -1,102 +1,102 @@
-# solidworks-renders-portfolio
-A gallery of CAD renders I modeled in SOLIDWORKS. Each project has images + notes; native CAD files will be added once my CAD environment is restored.
-
 # SolidWorks Renders Portfolio
-© Seif Adly. Renders for portfolio display only. Do not reuse without permission.
 
-A curated gallery of CAD models I designed and rendered in **SOLIDWORKS** (with some CATIA experience).  
-This repo currently includes **renders only**; native CAD files (`.SLDPRT`, `.SLDASM`, `.SLDDRW`) will be added when my CAD environment is restored.
+A curated gallery of CAD models I designed and rendered in **SOLIDWORKS** (some CATIA experience too).
+This repo currently includes **renders only**; native CAD files will be added when my CAD environment is restored.
 
-**Core skills shown across projects**
-- Solid modeling: Sketcher, Extrude, Revolve, Sweep, Loft, Shell, Fillet/Chamfer, Patterns
-- Surface modeling: Boundary/Lofted surfaces, Fill surface, trims & blends (mouse & bottle)
-- Assemblies & mates (biplane, pencil + sharpener)
-- Text/decals & materials (embossed text, decals for Coca-Cola & Nissan, appearance tuning)
+### Core skills shown across projects
+- Solid modeling: Sketcher, Extrude, Revolve, Sweep, Loft, Shell, Fillet/Chamfer, Patterns  
+- Surface modeling: Boundary/Lofted surfaces, Fill surface, trims & blends  
+- Assemblies & mates (biplane, pencil + sharpener)  
+- Text/decals & materials (embossed text, decals)  
 - Rendering: scenes, cameras, PhotoView settings
 
 ---
 
-## Projects
+## Projects (click any image to open full size)
 
 ### 1) Pencil & Sharpener
-Reverse-engineered desk items to practice **multi-body parts**, **assembly mates**, and realistic materials.
-- Tools: Sketch, Extrude, Fillet, Chamfer, Split line for paint strip, Assembly mates
+Reverse-engineered desk items to practice **multi-body parts**, **assembly mates**, and materials.
+- Tools: Sketch, Extrude, Fillet, Chamfer, Split line, Assembly mates
 - Detail: Embossed text “Property of Seif”
-
-![Pencil & Sharpener](pencil/Pencil%20%26%20Sharpener.JPG)
+  
+[![Pencil & Sharpener](pencil/Pencil%20%26%20Sharpener.JPG)](pencil/Pencil%20%26%20Sharpener.JPG)
 
 ---
 
-### 2) Curved Cosmetic Bottle
-Freeform bottle for surface practice and presentation rendering.
+### 2) Curved Cosmetic Bottle (Surfacing)
+Freeform bottle for surfacing practice & presentation rendering.
 - Tools: **Surface loft/boundary**, Knit, Shell, Fillet; appearance & scene tuning
 - Focus: Continuous curvature and manufacturable wall thicknesses
 
-![Bottle](bottle/Practice%20Model%20-%20Bottle.JPG)
+[![Cosmetic Bottle](bottle/Practice%20Model%20-%20Bottle.JPG)](bottle/Practice%20Model%20-%20Bottle.JPG)
 
 ---
 
-### 3) Biplane (Double-Deck Wing) Concept
-Display model to exercise assemblies, simple struts, and prop detail.
-- Tools: Multi-body parts, Assemblies & mates, Circular patterns, Appearances
-- Note: Visual/aesthetic model, not an aerodynamic study
+### 3) Vintage Biplane (Assembly)
+Simple toy biplane to practice **assemblies**, mates, and multi-body parts.
+- Tools: Extrude, Revolve, Patterns, Mates; appearance tuning for metals/paint
 
-![Biplane](biplane/Practice%20Model%20-%20Vintage%20Plane.JPG)
-
----
-
-### 4) Computer Mouse
-Industrial-design style surface model with smooth curvature and split lines for color breaks.
-- Tools: **Boundary/Lofted surfaces**, Fill surface, Split line, Shell, Fillets
-
-![Mouse](mouse/Practice%20Model%20-%20Mouse%20-%20Surface%20Model.JPG)
+[![Vintage Biplane](biplane/Practice%20Model%20-%20Vintage%20Plane.JPG)](biplane/Practice%20Model%20-%20Vintage%20Plane.JPG)
 
 ---
 
-### 5) Pipe Elbow + Flange (Sectioned)
-Mechanical component model with a cutaway to show interior.
-- Tools: Revolve, Extrude, Fillet, Shell, Cut-revolve, Patterns
-- Focus: Interface geometry & gasket land
+### 4) Wrench Tool (Multi-body + Emboss)
+Parametric wrench with embossed text and fillet transitions.
+- Tools: Multi-body solids, Fillet/Chamfer, Shell, Text/Extrude-cut
 
-![Pipe Elbow Flange](pipe_elbow_flange/Practice%20Model%20-%20Pipe.JPG)
-
----
-
-### 6) Nissan Key Fob
-Reverse-engineered personal key fob with decal and textured materials.
-- Tools: Surfacing + solids, Split line, Decal mapping, Appearances
-
-![Nissan Key Fob](nissan_key_fob/Practice%20Model%20-%20Key%20Fob%20with%20Decal.JPG)
+[![Wrench Tool](wrench/Wrench%20Tool.JPG)](wrench/Wrench%20Tool.JPG)
 
 ---
 
-### 7) Candle Holder (Decorative)
-Parametric helix/loft concept focused on symmetry and render presentation.
-- Tools: Helix/Spiral, Sweeps, Patterns, Appearances
+### 5) Computer Mouse (Surfacing)
+Smooth ergonomic shell modeled with surfaces; split lines for color breaks.
+- Tools: **Boundary/Loft surfaces**, Fill surface, Split line, Knit, Shell
 
-![Candle Holder](candle-holder/Practice%20Model%20-%20Candle%20Holder.JPG)
-
----
-
-### 8) Coca-Cola Bottle
-Classic bottle profile with label decal and transparent material setup.
-- Tools: Revolves, Shell, Fillets, **Decal mapping**, Optical material tuning
-
-![Coca-Cola Bottle](coca-cola-bottle/Practice%20Model%20-%20Coke%20Bottle.JPG)
+[![Mouse](mouse/mouse.jpg)](mouse/mouse.jpg)
 
 ---
 
-### 9) Raspberry Pi
-Detailed CAD model of a Raspberry Pi board including ports and connectors.
-- Tools: Extrude, Cut-extrude, Fillets, Assembly of components
-- Focus: Electronic component modeling and realistic materials
+### 6) Pipe Elbow Flange
+Practice on flanged elbow geometry with bolt holes and gasket seat.
+- Tools: Revolve, Extrude, Hole pattern, Chamfers, Appearances
 
-![Raspberry Pi](raspberry-pi/Raspberry%20Pi%20Enclosure.JPG)
+[![Pipe Elbow Flange](pipe_elbow_flange/Practice%20Model%20-%20Pipe.JPG)](pipe_elbow_flange/Practice%20Model%20-%20Pipe.JPG)
 
 ---
 
-### 10) Wrench Tool
-Practice in ergonomic shaping, fillet transitions, and detail chamfers for mechanical tools.
-- Tools: Revolve, Sweep, Fillets, Chamfers
+### 7) Nissan Key Fob (Decals & Materials)
+Modeled a personal key fob with decals and realistic materials/bumps.
+- Tools: Splits for material zones, **Decals/Appearances**, Fillets
 
-![Wrench Tool](wrench/Wrench%20Tool.JPG)
+[![Nissan Key Fob](nissan_key_fob/nissan-key-fob.jpg)](nissan_key_fob/nissan-key-fob.jpg)
+
+---
+
+### 8) Candle Holder (Artistic)
+Decorative, lathe-inspired wire form; practice with patterns and appearances.
+
+[![Candle Holder](candle-holder/Practice%20Model%20-%20Candle%20Holder.JPG)](candle-holder/Practice%20Model%20-%20Candle%20Holder.JPG)
+
+---
+
+### 9) Coca-Cola Bottle (Labeling/Glass)
+Bottle with realistic glass and a labeled decal.
+- Tools: Revolve, Shell, Fillet; **Decal** for label; glass material and studio scene
+
+[![Coke Bottle](coca-cola-bottle/Practice%20Model%20-%20Coke%20Bottle.JPG)](coca-cola-bottle/Practice%20Model%20-%20Coke%20Bottle.JPG)
+
+---
+
+### 10) Raspberry Pi (Reference Model)
+Quick reference model of a Raspberry Pi board to support a uni project prototype:
+- Used to plan GPIO/sensor placement and mounting clearances in a planned train-safety prototype (MATLAB/Simulink logic driving a Pi; obstacle sensor input; emergency stop signal).
+- Modeling the board helped define connector keep-outs, standoff height, and enclosure constraints.
+
+[![Raspberry Pi](raspberry-pi/Raspberry%20Pi.JPG)](raspberry-pi/Raspberry%20Pi.JPG)
+
+---
+
+## Notes
+- File names are preserved as uploaded; spaces (`%20`) and ampersands (`%26`) are URL-encoded in links.
+- Native CAD files (SLDPRT/SLDASM/SLDDRW) will be added later.
+- © Seif Adly. Renders are for portfolio display only.
