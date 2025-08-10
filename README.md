@@ -52,7 +52,7 @@ Parametric wrench with embossed text and fillet transitions.
 Smooth ergonomic shell modeled with surfaces; split lines for color breaks.
 - Tools: **Boundary/Loft surfaces**, Fill surface, Split line, Knit, Shell
 
-[![Mouse](mouse/mouse.jpg)](mouse/mouse.jpg)
+![Mouse – surfacing render](mouse/Practice-Model%20Mouse-Surfacing.JPG?raw=1)
 
 ---
 
