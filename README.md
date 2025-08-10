@@ -96,6 +96,18 @@ Quick reference model of a Raspberry Pi board to support a uni project prototype
 
 ---
 
+## 11) LEGO Figure
+
+This model of a classic LEGO minifigure was created as a practice project to explore part modelling, assembly techniques, and rendering in SOLIDWORKS. The project involved modelling individual components such as the head, torso, arms, hands, legs, and hips, followed by assembling them into the complete figure. Emphasis was placed on maintaining correct proportions, smooth curvature transitions, and characteristic LEGO design features.
+
+**Tools and Features Used:**
+- **Part Modelling:** Extrude, Revolve, Fillet, Chamfer, Shell
+- **Assembly:** Mates for precise alignment and articulation
+- **Rendering:** SOLIDWORKS Visualize with high-quality lighting and reflections
+- **Materials:** Plastic with varied gloss levels to replicate LEGO surface finish
+
+[![LEGO Figure Render](lego-character/Practice%20Model%20-%20Lego%20Figure.JPG)](lego-character/Practice%20Model%20-%20Lego%20Figure.JPG)
+
 ## Notes
 - File names are preserved as uploaded; spaces (`%20`) and ampersands (`%26`) are URL-encoded in links.
 - Native CAD files (SLDPRT/SLDASM/SLDDRW) will be added later.
