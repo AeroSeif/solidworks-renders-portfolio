@@ -9,7 +9,7 @@ This repo currently includes **renders only**; native CAD files (`.SLDPRT`, `.SL
 
 **Core skills shown across projects**
 - Solid modeling: Sketcher, Extrude, Revolve, Sweep, Loft, Shell, Fillet/Chamfer, Patterns
-- Surface modeling: Boundary/Lofted surfaces, Fill Surface, trims & blends (mouse & bottle)
+- Surface modeling: Boundary/Lofted surfaces, Fill surface, trims & blends (mouse & bottle)
 - Assemblies & mates (biplane, pencil + sharpener)
 - Text/decals & materials (embossed text, decals for Coca-Cola & Nissan, appearance tuning)
 - Rendering: scenes, cameras, PhotoView settings
@@ -45,15 +45,7 @@ Display model to exercise assemblies, simple struts, and prop detail.
 
 ---
 
-### 4) Combination Wrench
-Practice in ergonomic shaping, fillet transitions, and surface-to-solid workflows.
-- Tools: Revolve, Sweeps, Variable fillets, Drafts, Surface trims for blend quality
-
-![Wrench](pipe_elbow_flange/Practice%20Model%20-%20Pipe%20with%20Flange.JPG)
-
----
-
-### 5) Computer Mouse
+### 4) Computer Mouse
 Industrial-design style surface model with smooth curvature and split lines for color breaks.
 - Tools: **Boundary/Lofted surfaces**, Fill surface, Split line, Shell, Fillets
 
@@ -61,16 +53,16 @@ Industrial-design style surface model with smooth curvature and split lines for 
 
 ---
 
-### 6) Pipe Elbow + Flange (Sectioned)
+### 5) Pipe Elbow + Flange (Sectioned)
 Mechanical component model with a cutaway to show interior.
 - Tools: Revolve, Extrude, Fillet, Shell, Cut-revolve, Patterns
 - Focus: Interface geometry & gasket land
 
-![Pipe Elbow Flange](pipe_elbow_flange/Practice%20Model%20-%20Pipe%20with%20Flange.JPG)
+![Pipe Elbow Flange](pipe_elbow_flange/Practice%20Model%20-%20Pipe.JPG)
 
 ---
 
-### 7) Nissan Key Fob
+### 6) Nissan Key Fob
 Reverse-engineered personal key fob with decal and textured materials.
 - Tools: Surfacing + solids, Split line, Decal mapping, Appearances
 
@@ -78,7 +70,7 @@ Reverse-engineered personal key fob with decal and textured materials.
 
 ---
 
-### 8) Candle Holder (Decorative)
+### 7) Candle Holder (Decorative)
 Parametric helix/loft concept focused on symmetry and render presentation.
 - Tools: Helix/Spiral, Sweeps, Patterns, Appearances
 
@@ -86,7 +78,7 @@ Parametric helix/loft concept focused on symmetry and render presentation.
 
 ---
 
-### 9) Coca-Cola Bottle
+### 8) Coca-Cola Bottle
 Classic bottle profile with label decal and transparent material setup.
 - Tools: Revolves, Shell, Fillets, **Decal mapping**, Optical material tuning
 
@@ -94,20 +86,17 @@ Classic bottle profile with label decal and transparent material setup.
 
 ---
 
-### 10) Raspberry Pi Board + Enclosure Concept
-Part of my dissertation prototyping path on **railway safety**: concept system to detect track obstacles and stop a model train.
-- **Concept**: Ultrasonic sensor feeds the **Raspberry Pi GPIO**; a Simulink controller (MATLAB/Simulink) evaluates distance and commands the motor driver (H-bridge) to cut traction when an obstacle is detected.  
-- **Why an enclosure?** To mount the Pi securely to a testbed, manage cables, allow airflow, and protect from dust/vibration during lab tests. Standoffs, slots for USB/HDMI, and venting would be integrated for 3D printing.
-- Tools shown in the model: Board layout approximation, Linear patterns (header pins), Appearances; enclosure shell to follow.
+### 9) Raspberry Pi
+Detailed CAD model of a Raspberry Pi board including ports and connectors.
+- Tools: Extrude, Cut-extrude, Fillets, Assembly of components
+- Focus: Electronic component modeling and realistic materials
 
-![Raspberry Pi](raspberry-pi/raspberry_pi_render.jpg)
+![Raspberry Pi](raspberry-pi/Raspberry%20Pi%20Enclosure.JPG)
 
 ---
 
-## Roadmap
-- Add native CAD files (`.SLDPRT`, `.SLDASM`, `.SLDDRW`) using Git LFS
-- Add engineering drawings (PDF) with GD&T callouts for select parts
-- Add short write-ups on design-for-manufacture considerations
+### 10) Wrench Tool
+Practice in ergonomic shaping, fillet transitions, and detail chamfers for mechanical tools.
+- Tools: Revolve, Sweep, Fillets, Chamfers
 
-## Notes
-When I regain access to SOLIDWORKS, I’ll upload the source models and drawings and link them here.
+![Wrench Tool](wrench/Wrench%20Tool.JPG)
