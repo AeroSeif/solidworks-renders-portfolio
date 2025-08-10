@@ -22,8 +22,8 @@ This repo currently includes **renders only**; native CAD files (`.SLDPRT`, `.SL
 Reverse-engineered desk items to practice **multi-body parts**, **assembly mates**, and realistic materials.
 - Tools: Sketch, Extrude, Fillet, Chamfer, Split line for paint strip, Assembly mates
 - Detail: Embossed text “Property of Seif”
-  
-![Pencil](pencil/pencil_render.jpg)
+
+![Pencil & Sharpener](pencil/Pencil%20%26%20Sharpener.JPG)
 
 ---
 
@@ -31,8 +31,8 @@ Reverse-engineered desk items to practice **multi-body parts**, **assembly mates
 Freeform bottle for surface practice and presentation rendering.
 - Tools: **Surface loft/boundary**, Knit, Shell, Fillet; appearance & scene tuning
 - Focus: Continuous curvature and manufacturable wall thicknesses
-  
-![Bottle](bottle/bottle_render.jpg)
+
+![Bottle](bottle/Practice%20Model%20-%20Bottle.JPG)
 
 ---
 
@@ -40,24 +40,24 @@ Freeform bottle for surface practice and presentation rendering.
 Display model to exercise assemblies, simple struts, and prop detail.
 - Tools: Multi-body parts, Assemblies & mates, Circular patterns, Appearances
 - Note: Visual/aesthetic model, not an aerodynamic study
-  
-![Biplane](biplane/biplane_render.jpg)
+
+![Biplane](biplane/Practice%20Model%20-%20Vintage%20Plane.JPG)
 
 ---
 
 ### 4) Combination Wrench
 Practice in ergonomic shaping, fillet transitions, and surface-to-solid workflows.
 - Tools: Revolve, Sweeps, Variable fillets, Drafts, Surface trims for blend quality
-  
-![Wrench](wrench/wrench_render.jpg)
+
+![Wrench](pipe_elbow_flange/Practice%20Model%20-%20Pipe%20with%20Flange.JPG)
 
 ---
 
 ### 5) Computer Mouse
 Industrial-design style surface model with smooth curvature and split lines for color breaks.
 - Tools: **Boundary/Lofted surfaces**, Fill surface, Split line, Shell, Fillets
-  
-![Mouse](mouse/mouse_render.jpg)
+
+![Mouse](mouse/Practice%20Model%20-%20Mouse%20-%20Surface%20Model.JPG)
 
 ---
 
@@ -65,32 +65,32 @@ Industrial-design style surface model with smooth curvature and split lines for 
 Mechanical component model with a cutaway to show interior.
 - Tools: Revolve, Extrude, Fillet, Shell, Cut-revolve, Patterns
 - Focus: Interface geometry & gasket land
-  
-![Pipe elbow flange](pipe-elbow-flange/pipe_render.jpg)
+
+![Pipe Elbow Flange](pipe_elbow_flange/Practice%20Model%20-%20Pipe%20with%20Flange.JPG)
 
 ---
 
 ### 7) Nissan Key Fob
 Reverse-engineered personal key fob with decal and textured materials.
 - Tools: Surfacing + solids, Split line, Decal mapping, Appearances
-  
-![Nissan key fob](nissan-key-fob/nissan_render.jpg)
+
+![Nissan Key Fob](nissan_key_fob/Practice%20Model%20-%20Key%20Fob%20with%20Decal.JPG)
 
 ---
 
 ### 8) Candle Holder (Decorative)
 Parametric helix/loft concept focused on symmetry and render presentation.
 - Tools: Helix/Spiral, Sweeps, Patterns, Appearances
-  
-![Candle holder](candle-holder/candle_holder_render.jpg)
+
+![Candle Holder](candle-holder/Practice%20Model%20-%20Candle%20Holder.JPG)
 
 ---
 
 ### 9) Coca-Cola Bottle
 Classic bottle profile with label decal and transparent material setup.
 - Tools: Revolves, Shell, Fillets, **Decal mapping**, Optical material tuning
-  
-![Coke bottle](coca-cola-bottle/coke_render.jpg)
+
+![Coca-Cola Bottle](coca-cola-bottle/Practice%20Model%20-%20Coke%20Bottle.JPG)
 
 ---
 
