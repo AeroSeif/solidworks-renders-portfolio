@@ -68,7 +68,7 @@ Practice on flanged elbow geometry with bolt holes and gasket seat.
 Modeled a personal key fob with decals and realistic materials/bumps.
 - Tools: Splits for material zones, **Decals/Appearances**, Fillets
 
-[![Nissan Key Fob](nissan_key_fob/nissan-key-fob.jpg)](nissan_key_fob/nissan-key-fob.jpg)
+[![Nissan Key Fob Render](nissan_key_fob/Practice%20Model%20-%20Key%20Fob%20with%20Cover.JPG)](nissan_key_fob/Practice%20Model%20-%20Key%20Fob%20with%20Cover.JPG)
 
 ---
 
