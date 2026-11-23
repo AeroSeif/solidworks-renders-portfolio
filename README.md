@@ -11,7 +11,7 @@ A gallery of CAD models I designed and rendered in **SOLIDWORKS** (some CATIA ex
 
 ---
 
-## Projects (click any image to open full size)
+## Projects 
 
 ### 1) Pencil & Sharpener
 Reverse-engineered desk items to practice **multi-body parts**, **assembly mates**, and materials.
