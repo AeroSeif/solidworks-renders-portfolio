@@ -14,10 +14,6 @@ A gallery of CAD models I designed and rendered in **SOLIDWORKS** (some CATIA ex
 ## Projects 
 
 ### 1) Pencil & Sharpener
-Reverse-engineered desk items to practice **multi-body parts**, **assembly mates**, and materials.
-- Tools: Sketch, Extrude, Fillet, Chamfer, Split line, Assembly mates
-- Detail: Embossed text “Property of Seif”
-  
 [![Pencil & Sharpener](pencil/Pencil%20%26%20Sharpener.JPG)](pencil/Pencil%20%26%20Sharpener.JPG)
 
 ---
@@ -26,7 +22,6 @@ Reverse-engineered desk items to practice **multi-body parts**, **assembly mates
 Freeform bottle for surfacing practice & presentation rendering.
 - Tools: **Surface loft/boundary**, Knit, Shell, Fillet; appearance & scene tuning
 - Focus: Continuous curvature and manufacturable wall thicknesses
-
 [![Cosmetic Bottle](bottle/Practice%20Model%20-%20Bottle.JPG)](bottle/Practice%20Model%20-%20Bottle.JPG)
 
 ---
