@@ -108,7 +108,4 @@ This model of a classic LEGO minifigure was created as a practice project to exp
 
 [![LEGO Figure Render](lego-character/Practice%20Model%20-%20Lego%20Figure.JPG)](lego-character/Practice%20Model%20-%20Lego%20Figure.JPG)
 
-## Notes
-- File names are preserved as uploaded; spaces (`%20`) and ampersands (`%26`) are URL-encoded in links.
-- Native CAD files (SLDPRT/SLDASM/SLDDRW) will be added later.
-- © Seif Adly. Renders are for portfolio display only.
+
