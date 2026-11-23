@@ -1,7 +1,6 @@
 # SolidWorks Renders Portfolio
 
-A curated gallery of CAD models I designed and rendered in **SOLIDWORKS** (some CATIA experience too).
-This repo currently includes **renders only**; native CAD files will be added when my CAD environment is restored.
+A gallery of CAD models I designed and rendered in **SOLIDWORKS** (some CATIA experience too).
 
 ### Core skills shown across projects
 - Solid modeling: Sketcher, Extrude, Revolve, Sweep, Loft, Shell, Fillet/Chamfer, Patterns  
